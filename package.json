@@ -1,0 +1,20 @@
+{
+  "name": "Practice",
+  "version": "1.0.0",
+  "description": "READMEを作成して見た",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bearrabi/TypeScriptPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bearrabi/TypeScriptPractice/issues"
+  },
+  "homepage": "https://github.com/bearrabi/TypeScriptPractice#readme"
+}
