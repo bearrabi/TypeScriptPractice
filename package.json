@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/bearrabi/TypeScriptPractice/issues"
   },
-  "homepage": "https://github.com/bearrabi/TypeScriptPractice#readme"
+  "homepage": "https://github.com/bearrabi/TypeScriptPractice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
 }
