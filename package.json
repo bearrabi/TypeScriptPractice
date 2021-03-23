@@ -18,7 +18,9 @@
     "url": "https://github.com/bearrabi/TypeScriptPractice/issues"
   },
   "homepage": "https://github.com/bearrabi/TypeScriptPractice#readme",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
   "devDependencies": {
     "ts-node": "^8.5.4",
     "ts-node-dev": "^1.1.6",
